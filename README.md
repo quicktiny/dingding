@@ -50,4 +50,5 @@ A：暂不考虑收费
 
 ## 5. 联系方式
 微信号: quicktiny_xiaoxiao
+
  ![image](https://github.com/quicktiny/dingding/raw/master/res/xiaoxiao.jpeg)
